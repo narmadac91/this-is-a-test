@@ -1,3 +1,4 @@
+newnewlist
 NewList
 A cappella
 AOR
@@ -211,7 +212,7 @@ Modal Jazz
 Modern Classical
 Music Hall
 Musical Parody
-Musique concrète
+Musique concrÃ¨te
 Neo-Psychedelia
 Neo-Soul
 Neofolk
