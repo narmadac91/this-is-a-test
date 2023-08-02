@@ -1,0 +1,347 @@
+A cappella
+AOR
+Abstract Hip-Hop
+Acid Jazz
+Acid Rock
+Acid Techno
+Acoustic Blues
+Acoustic Rock
+Adult Contemporary
+Afro-Funk
+Afro-Jazz
+Afrobeat
+Alt-Country
+Alternative Dance
+Alternative R&B
+Alternative Rock
+Ambient
+Ambient Dub
+Ambient Pop
+Ambient Techno
+Americana
+Art Pop
+Art Punk
+Art Rock
+Atmospheric Black Metal
+Atmospheric Sludge Metal
+Avant-Folk
+Avant-Garde Jazz
+Avant-Garde Metal
+Avant-Prog
+Barbershop
+Baroque Folk
+Baroque Music
+Baroque Pop
+Beat Music
+Beat Poetry
+Bebop
+Berlin School
+Big Band
+Birdsong
+Black Metal
+Blue-Eyed Soul
+Blues
+Blues Rock
+Boom Bap
+Brass Band
+Brill Building
+Britpop
+Brostep
+Brutal Prog
+C86
+Cabaret
+Calypso
+Canterbury Scene
+Carnatic Classical Music
+Caterbuty Scene
+Chamber Folk
+Chamber Jazz
+Chamber Music
+Chamber Pop
+Children Music
+Chiptune
+Choral
+Circus March
+Comedy Hip-Hop
+Comedy Rock
+Conscious Hip-Hop
+Contemporary Folk
+Contemporary R&B
+Cool Jazz
+Country Blues
+Country Gospel
+Country Rock
+Cyber Metal
+Cybergrind
+Dance
+Dance-Pop
+Dark Ambient
+Dark Cabaret
+Dark Folk
+Dark Jazz
+Darkwave
+Deconstructed Club
+Deep Soul
+Dhrupad
+Digital Hardcore
+Dirty South
+Disco
+Dixieland
+Documentary
+Doo-Wop
+Doom Metal
+Downtempo
+Dream Pop
+Drill and Bass
+Drone
+Drone Metal
+Drum and Bass
+Dub
+Dub Techno
+EAI
+East Coast Hip-Hop
+Electric Blues
+Electro
+Electro-Disco
+Electro-Industrial
+Electroacoustic
+Electronic
+Electropop
+Emo
+Emo Rap
+Emocore
+Ethereal Wave
+European Folk Music
+European Free Jazz
+Experimental
+Experimental Big Band
+Experimental Hip-Hop
+Experimental Rock
+Field Recordings
+Film Score
+Flamenco Jazz
+Folk Baroque
+Folk Metal
+Folk Pop
+Folk Punk
+Folk Rock
+Folktronica
+Footwork
+Freak Folk
+Free Folk
+Free Improvisation
+Free Jazz
+Funk
+Funk Metal
+Funk Rock
+Future Bass
+G-Funk
+Gabber
+Gagaku
+Gamelan
+Gangsta Rap
+Garage Rock
+Glam Rock
+Glitch
+Glitch Hop
+Glitch Pop
+Gothic Country
+Gothic Rock
+Grindcore
+Grunge
+Hard Bop
+Hard Rock
+Hard-Bop
+Hardcore Hip-Hop
+Hardcore Punk
+Harsh Noise
+Heavy Metal
+Heavy Psych
+Hindustani Classical Music
+Hip House
+Horror Synth
+House
+Hypnagogic Pop
+IDM
+Impressionism
+Indie Folk
+Indie Pop
+Indie Rock
+Indietronica
+Indigenous Australian Music
+Industrial
+Industrial Hip-Hop
+Industrial Metal
+Industrial Rock
+Instrumental Hip-Hop
+Inuit Vocal Games
+J-Pop
+Jam Band
+Jangle Pop
+Japanese Hardcore
+Japanese Hip-Hop
+Jazz Fusion
+Jazz Pop
+Jazz Rap
+Jazz-Funk
+Jazz-Rock
+Klezmer
+Korean Classical Music
+Korean Folk Music
+Krautrock
+Latin Jazz
+Latin Pop
+Latin Rock
+Lo-Fi Indie
+Lounge
+Lovers Rock
+Lowercase
+Mariachi
+Math Rock
+Mathcore
+Merseybeat
+Metalcore
+Midwest Emo
+Minimal Synth
+Minimal Techno
+Minimal Wave
+Minimalism
+Modal Jazz
+Modern Classical
+Music Hall
+Musical Parody
+Musique concrète
+Neo-Psychedelia
+Neo-Soul
+Neofolk
+New Age
+New Romantic
+New Wave
+No Wave
+Noh
+Noise
+Noise Pop
+Noise Rock
+Noisecore
+Nu Jazz
+Nu-Disco
+Onkyo
+Orchestral
+Outlaw Country
+Peking Opera
+Philly Soul
+Piano Blues
+Piano Rock
+Plunderphonics
+Poetry
+Political Hip-Hop
+Pop Rap
+Pop Reggae
+Pop Rock
+Pop Soul
+Post-Bop
+Post-Hardcore
+Post-Industrial
+Post-Metal
+Post-Minimalism
+Post-Punk
+Post-Rock
+Progressive Big Band
+Progressive Electronic
+Progressive Folk
+Progressive House
+Progressive Metal
+Progressive Pop
+Progressive Rock
+Proto-Punk
+Psychedelic Folk
+Psychedelic Pop
+Psychedelic Rock
+Psychedelic Soul
+Psychobilly
+Psytrance
+Punk Blues
+Punk Rock
+Qawwali
+Radio Broadcast Recordings
+Raga Rock
+Ragtime
+Reductionism
+Reggae
+Rhythm & Blues
+Ritual Ambient
+Rock & Roll
+Rock Opera
+Rock in Opposition
+Rockabilly
+Rocksteady
+Roots Reggae
+Roots Rock
+Saeta
+Salsa
+Satire
+Serialism
+Shibuya-kei
+Shoegaze
+Shomyo
+Show Tunes
+Ska
+Ska Punk
+Slowcore
+Sludge Metal
+Smooth Soul
+Soft Rock
+Sophisti-Pop
+Soul
+Soul Blues
+Soul Jazz
+Sound Collage
+Sounds and Effects
+South Asian Music
+Southern Hip-Hop
+Southern Soul
+Space Ambient
+Space Rock
+Spaghetti Western
+Spiritual Jazz
+Spoken Word
+Standards
+Stoner Metal
+Stoner Rock
+Sunshine Pop
+Surf Music
+Surf Rock
+Swamp Rock
+Swing
+Symphonic Prog
+Symphonic Rock
+Synth Funk
+Synth Punk
+Synthpop
+Synthwave
+Tape Music
+Techno
+Television Score
+Third Stream
+Throat Singing
+Tone Poem
+Totalism
+Traditional Country
+Trap Rap
+Tribal Ambient
+Tribal House
+Trip Hop
+Tsugaru Shamisen
+Turntable Music
+Turntablism
+Twee Pop
+UK Hip-Hop
+Vaudeville
+Video Game Music
+Vocal Jazz
+Vocal Surf
+West Coast Hip-Hop
+Western Classical Music
+Wonky
+Zeuhl
+Zolo
